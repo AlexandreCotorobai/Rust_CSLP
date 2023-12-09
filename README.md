@@ -35,7 +35,7 @@ $ cargo build
    Compiling hello_cargo v0.1.0 (file:///projects/hello_cargo)
     Finished dev [unoptimized + debuginfo] target(s) in 2.85 secs
 ```
-This command creates an executable file in target/debug/hello_cargo (or target\debug\hello_cargo.exe on Windows) rather than in your current directory. 
+From ``hello_cargo`` directory, this command creates an executable file in target/debug/hello_cargo (or target\debug\hello_cargo.exe on Windows) rather than in your current directory. 
 You can run the created executable using ``./target/debug/hello_cargo``.
 
 We can also use cargo run to compile the code and then run the resultant executable all in one command:
