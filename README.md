@@ -1,9 +1,9 @@
 # Rust Tutorial 
 
 ### CSLP - Group 7
-- Alexandre
-- Joaquim
-- Bernardo
+- Alexandre Cotorobai - 107849
+- Joaquim Rosa - 109089
+- Bernardo Figueiredo - 108073
 
 ## Requirements
 Rust Installation: https://www.rust-lang.org/tools/install
