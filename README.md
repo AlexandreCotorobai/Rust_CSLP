@@ -44,6 +44,12 @@ $ cargo run
    Compiling hello_cargo v0.1.0 (file:///projects/hello_cargo)
     Finished dev [unoptimized + debuginfo] target(s) in 0.33 secs
      Running `target/debug/hello_cargo`
+
+---
+
+Presentation Slides
+https://docs.google.com/presentation/d/1XW-FrfrupjIWf19DEviqdaqct7sUXBCX20VzrO0Ln7s/edit?usp=sharing
+
 Hello, world!
 ```
 
